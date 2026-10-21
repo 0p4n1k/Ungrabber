@@ -20,7 +20,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/0p4n1k/Ungrabber"
+Homepage = "https://github.com/lululepu/Ungrabber"
 
 [project.scripts]
 ungrab = "ungrabber.cli:ungrab"
