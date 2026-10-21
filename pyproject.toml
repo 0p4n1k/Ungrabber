@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 license = { text = "MIT" }
 authors = [
-    { name = "Lululepu", email = "a.no.qsdf@gmail.com" }
+    { name = "0p4n1k", email = "a.no.qsdf@gmail.com" }
 ]
 dependencies = [
     "cryptography",
@@ -20,7 +20,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/lululepu/Ungrabber"
+Homepage = "https://github.com/0p4n1k/Ungrabber"
 
 [project.scripts]
 ungrab = "ungrabber.cli:ungrab"
